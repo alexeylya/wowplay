@@ -162,7 +162,7 @@
 ?>
 <html lang="ru">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<style>a { cursor: url(/style/images/arrow.cur), pointer; }</style>
 <title><?php echo $site_title;?></title>
 <link rel="stylesheet" type="text/css" href="templates/main/css/styles.css">
 <link type="text/css" href="./style/main.css" rel="stylesheet" />
@@ -171,15 +171,15 @@
 <script type="text/javascript" src="./style/my_tooltip.js"></script>
 <link rel="shortcut icon" href="./favicon.ico" />
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.2.js "></script>
 <script src="templates/main/js/jquery.tools.min.js"></script>
 <script src="templates/main/js/jquery.fancybox-1.3.4.pack.js"></script>
 <script src="templates/main/js/jquery.easing.1.3.js"></script>
 <script src="templates/main/js/tms-0.3.js"></script>
 <script src="templates/main/js/script.js"></script>	
-		
-
-		
+<script type="text/javascript" src="//wow.zamimg.com/widgets/power.js"></script><script>var wowhead_tooltips = { "colorlinks": true, "iconizelinks": true, "renamelinks": true }</script>
 <script type="text/javascript" src="//vk.com/js/api/openapi.js?105"></script>
+<meta name="robots" value="noindex" />
 <script type="text/javascript">
 	
 function getText(){
