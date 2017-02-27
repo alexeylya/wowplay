@@ -1,0 +1,5 @@
+# dnwr_ip 192.168.0.108
+
+AddDefaultCharset utf8_general_ci
+ErrorDocument 404 /?page=404
+
